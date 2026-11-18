@@ -12,6 +12,6 @@ https://ruisworkshop.web.app, where the Home page has install steps.
 3. If Play Protect warns about an unknown app, tap **More details → Install anyway**: it's a private app, not from the Play Store.
 4. Open Rui's Workshop and sign in.
 
-To update, download the latest version and install it over the old one; nothing is lost.
+From version 1.2 the app updates itself: when a new version is out it asks you, downloads it and opens the installer. Your characters, sign-in and books stay. (Coming from 1.0 or 1.1? Install 1.2 once by hand, over the old app.)
 
 This repository only holds the app downloads (see [Releases](https://github.com/rui-cunha-testing-websites/ruisworkshop-app/releases)).
